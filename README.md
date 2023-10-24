@@ -1,3 +1,5 @@
+Live Site Here : https://student-management-system-wasif.000webhostapp.com/
+
 In 'db.php'
 
 replace password and database name with your credentials 
